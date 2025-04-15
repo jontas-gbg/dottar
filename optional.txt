@@ -1,0 +1,13 @@
+brave-beta-bin
+checkupdates-with-aur
+speedtest++
+spotify-adblock-git
+spotify-player
+spotube-bin
+strawberry-git
+sddm-astronaut-theme
+telegram-desktop
+oh-my-posh-bin
+kasts
+vlc
+newsboat

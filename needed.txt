@@ -1,0 +1,5 @@
+hyprland-git
+hyprlock-git
+hyprpaper-git
+hyprpicker-git
+
